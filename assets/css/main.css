@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+:root {
+  --bg-color: #fdfdfd;
+  --text-color: #1f2643;
+}
+
+.tous {
+  --bg-color: #fdfdfd;
+  --text-color: #1f2643;
+}
